@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\documentupload\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|solutionrelative:documentupload\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|c:\\users\\trust\\source\\repos\\documentupload\\documentupload\\uploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|solutionrelative:documentupload\\uploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|c:\\users\\trust\\source\\repos\\documentupload\\documentupload\\uploadform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|solutionrelative:documentupload\\uploadform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|c:\\users\\trust\\source\\repos\\documentupload\\documentupload\\uploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|solutionrelative:documentupload\\uploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|c:\\users\\trust\\source\\repos\\documentupload\\documentupload\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C536426-F879-483D-9B1F-4B51F35A3D09}|DocumentUpload\\DocumentUpload.csproj|solutionrelative:documentupload\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadForm.cs",
+              "DocumentMoniker": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\UploadForm.cs",
+              "RelativeDocumentMoniker": "DocumentUpload\\UploadForm.cs",
+              "ToolTip": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\UploadForm.cs",
+              "RelativeToolTip": "DocumentUpload\\UploadForm.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwGEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:48:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\UploadForm.Designer.cs",
+              "RelativeDocumentMoniker": "DocumentUpload\\UploadForm.Designer.cs",
+              "ToolTip": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\UploadForm.Designer.cs",
+              "RelativeToolTip": "DocumentUpload\\UploadForm.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowE0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:48:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\UploadForm.cs",
+              "RelativeDocumentMoniker": "DocumentUpload\\UploadForm.cs",
+              "ToolTip": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\UploadForm.cs [Design]",
+              "RelativeToolTip": "DocumentUpload\\UploadForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:46:04.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\Form1.cs",
+              "RelativeDocumentMoniker": "DocumentUpload\\Form1.cs",
+              "ToolTip": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\Form1.cs",
+              "RelativeToolTip": "DocumentUpload\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wCMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:50:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\Form1.cs",
+              "RelativeDocumentMoniker": "DocumentUpload\\Form1.cs",
+              "ToolTip": "C:\\Users\\TRUST\\source\\repos\\DocumentUpload\\DocumentUpload\\Form1.cs [Design]",
+              "RelativeToolTip": "DocumentUpload\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:39:57.41Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

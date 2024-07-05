@@ -1,0 +1,11 @@
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\bin\Debug\DocumentUpload.exe.config
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\bin\Debug\DocumentUpload.exe
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\bin\Debug\DocumentUpload.pdb
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.csproj.AssemblyReference.cache
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.Form1.resources
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.Properties.Resources.resources
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.UploadForm.resources
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.csproj.GenerateResource.cache
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.csproj.CoreCompileInputs.cache
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.exe
+C:\Users\TRUST\source\repos\DocumentUpload\DocumentUpload\obj\Debug\DocumentUpload.pdb
